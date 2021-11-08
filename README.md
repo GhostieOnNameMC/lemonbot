@@ -47,4 +47,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+<<<<<<< HEAD
 [MIT](https://github.com/GhostieOnNameMC/lemonbot/blob/main/LICENSE)
+=======
+[MIT](https://github.com/GhostieOnNameMC/lemonbot/blob/main/LICENSE)
+>>>>>>> 4ab69e1c86982a526dcd59b6cd35ff1da15d7259
