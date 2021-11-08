@@ -34,8 +34,23 @@ $ node .
 ```
 
 ## Commands
-- !Wallpaper - start posting wallpapers
-- !stop (comming soon) - stops the posting
+Wallpaper - start posting wallpapers
+aiimage
+Gives you an ai generated image based of text.
++fact
+Gives you some facts.
++help
+Gives you this prompt.
++invite
+Gives you the invite link for the bot.
++play
+Plays Music
++skip
+Skips currently playing music
++stop
+Disconnects the bot from vc
++wallpaper
+Gives you a wallpaper
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
