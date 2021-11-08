@@ -5,7 +5,7 @@ const ytSearch = require('yt-search');
 const queue = new Map();
 
 module.exports = {
-    name: 'play',
+    name: 'p',
     aliases: ['skip', 'stop'], //We are using aliases to run the skip and stop command follow this tutorial if lost: https://www.youtube.com/watch?v=QBUJ3cdofqc
     cooldown: 0,
     description: 'Advanced music bot',
@@ -23,7 +23,7 @@ module.exports = {
         const server_queue = queue.get(message.guild.id);
 
         //If the user has used the play command
-        if (cmd === 'play'){
+        if (cmd === 'p'){
             if (!args.length) return message.channel.send('You need to send the second argument!');
             let song = {};
 
